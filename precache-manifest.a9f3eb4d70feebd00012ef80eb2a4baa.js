@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/youthopia.31f87dac.png"
   },
   {
-    "revision": "149c03dd450f7929c626",
+    "revision": "d5f5d8705cae8e56a1e1",
     "url": "/static/css/main.2a5988c8.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/android-logo.1d7df1ac.png"
   },
   {
-    "revision": "149c03dd450f7929c626",
-    "url": "/static/js/main.149c03dd.chunk.js"
+    "revision": "d5f5d8705cae8e56a1e1",
+    "url": "/static/js/main.d5f5d870.chunk.js"
   },
   {
     "revision": "ef05f0d6b25d96879ed6866f17c86dbe",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.6f07b77b.chunk.css"
   },
   {
-    "revision": "fcd86de6f301e469c639ded3e208e7e0",
+    "revision": "d68158364ecfaceff5937258ab0bb2b4",
     "url": "/index.html"
   }
 ];
