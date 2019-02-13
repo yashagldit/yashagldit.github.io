@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/android-logo.1d7df1ac.png"
   },
   {
-    "revision": "93112dd3b3d13d58aaa0",
-    "url": "/static/css/main.7eef9ea3.chunk.css"
+    "revision": "f5e0ae845fc334c0bb5e",
+    "url": "/static/css/main.8587854a.chunk.css"
   },
   {
     "revision": "5fdd32ef4dd94175fb72a2719019c0ad",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "93112dd3b3d13d58aaa0",
-    "url": "/static/js/main.93112dd3.chunk.js"
+    "revision": "f5e0ae845fc334c0bb5e",
+    "url": "/static/js/main.f5e0ae84.chunk.js"
   },
   {
     "revision": "31f87dac42bc740db50fc6a964495534",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.5c35c70b.chunk.css"
   },
   {
-    "revision": "9553bc2defeb8f7ec62388e64002ac84",
+    "revision": "483c873db127a8ee1bf61c79c47e8f83",
     "url": "/index.html"
   }
 ];
