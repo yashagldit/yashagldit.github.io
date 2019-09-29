@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e980281f385b591209313f5f5aa5cd31",
+    "revision": "ceaacf1133dad178ce5288ec2c90d425",
     "url": "/index.html"
   },
   {
-    "revision": "197117f20913776a99bb",
+    "revision": "0f1646f25aa221da1fda",
     "url": "/static/css/2.3fc73323.chunk.css"
   },
   {
-    "revision": "f397da8ead96d5ebc767",
-    "url": "/static/css/main.71615f94.chunk.css"
+    "revision": "b1d7481f1db33fca02da",
+    "url": "/static/css/main.b6ae6bcf.chunk.css"
   },
   {
-    "revision": "197117f20913776a99bb",
-    "url": "/static/js/2.e1ed4f56.chunk.js"
+    "revision": "0f1646f25aa221da1fda",
+    "url": "/static/js/2.aa2e36ea.chunk.js"
   },
   {
-    "revision": "f397da8ead96d5ebc767",
-    "url": "/static/js/main.b9f30910.chunk.js"
+    "revision": "b1d7481f1db33fca02da",
+    "url": "/static/js/main.80ed663a.chunk.js"
   },
   {
     "revision": "52123b38d11f0f357a17",
@@ -28,12 +28,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/android-logo.1d7df1ac.png"
   },
   {
+    "revision": "5527103b90fe4e2797c6e8fd7971a8fc",
+    "url": "/static/media/ditapp1.5527103b.webp"
+  },
+  {
+    "revision": "a683a13debc287706c1139ef6953c588",
+    "url": "/static/media/ditapp2.a683a13d.webp"
+  },
+  {
+    "revision": "b98cb85e4e00b2ab6d9531c5411c844f",
+    "url": "/static/media/ditapp3.b98cb85e.webp"
+  },
+  {
+    "revision": "4635293fd0a0056babbdc8ef6c38f7cd",
+    "url": "/static/media/ditapp4.4635293f.webp"
+  },
+  {
+    "revision": "62ff75693cffe0e513e287d0f1ab5c1d",
+    "url": "/static/media/ditapp5.62ff7569.webp"
+  },
+  {
+    "revision": "e2d4a2b252ad73d386f4a9120878a1f8",
+    "url": "/static/media/ditapp6.e2d4a2b2.webp"
+  },
+  {
     "revision": "b36033e834e4e2c488622ef62c292604",
     "url": "/static/media/ditapplogo.b36033e8.png"
   },
   {
     "revision": "564655960d4fae41d6294de413c496cc",
     "url": "/static/media/dituappstats.56465596.png"
+  },
+  {
+    "revision": "5a8801a7c9727287340c1374dc860613",
+    "url": "/static/media/dituweb1.5a8801a7.webp"
+  },
+  {
+    "revision": "cae5cfdc336c5819b370668d01ffafb5",
+    "url": "/static/media/dituweb2.cae5cfdc.webp"
   },
   {
     "revision": "131ee3e3a7de7221ad877edfbc91a1b1",
