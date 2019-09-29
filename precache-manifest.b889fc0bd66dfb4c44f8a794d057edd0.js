@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceaacf1133dad178ce5288ec2c90d425",
+    "revision": "bcb93785493debcadfa788175dd83161",
     "url": "/index.html"
   },
   {
-    "revision": "0f1646f25aa221da1fda",
+    "revision": "89c3d64de2c5e1232668",
     "url": "/static/css/2.3fc73323.chunk.css"
   },
   {
-    "revision": "b1d7481f1db33fca02da",
+    "revision": "3ae03a4d5e79bd22ee21",
     "url": "/static/css/main.b6ae6bcf.chunk.css"
   },
   {
-    "revision": "0f1646f25aa221da1fda",
-    "url": "/static/js/2.aa2e36ea.chunk.js"
+    "revision": "89c3d64de2c5e1232668",
+    "url": "/static/js/2.63fd1f7d.chunk.js"
   },
   {
-    "revision": "b1d7481f1db33fca02da",
-    "url": "/static/js/main.80ed663a.chunk.js"
+    "revision": "3ae03a4d5e79bd22ee21",
+    "url": "/static/js/main.08e6baf5.chunk.js"
   },
   {
     "revision": "52123b38d11f0f357a17",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ditapplogo.b36033e8.png"
   },
   {
-    "revision": "564655960d4fae41d6294de413c496cc",
-    "url": "/static/media/dituappstats.56465596.png"
+    "revision": "54193f64e5b6146f0ec46e07c01bbd94",
+    "url": "/static/media/dituappstats.54193f64.png"
   },
   {
     "revision": "5a8801a7c9727287340c1374dc860613",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5fdd32ef4dd94175fb72a2719019c0ad",
     "url": "/static/media/html-css.5fdd32ef.png"
+  },
+  {
+    "revision": "5820d44a6ea401aa613b885e04f452f3",
+    "url": "/static/media/playstore.5820d44a.png"
   },
   {
     "revision": "5a5ec7ed8958c4bebce86230c784a8e3",
